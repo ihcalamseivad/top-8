@@ -21,7 +21,12 @@ h3 {
   font-size: 50px;
   background: #000000;
 }
-
+h4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 50px;
+  background: #000000;
 
 p {
     color: #ffffff;
@@ -36,4 +41,3 @@ body {
   background: #000000;
 
 }
-
